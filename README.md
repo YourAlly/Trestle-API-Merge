@@ -4,7 +4,7 @@
 [![Latest Stable Version](https://img.shields.io/packagist/v/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
 [![Lumen License](https://img.shields.io/packagist/l/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
 
-Gets data from two apis and merges them so that we can just start calling one endpoint to get data from both source
+Gets data from the two APIs and merges them so that we can just start calling one endpoint to get data from both sources
 
 ## Lumen Official Documentation
 
